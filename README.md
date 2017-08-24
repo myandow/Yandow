@@ -1,4 +1,4 @@
-# hello-world
+# Yandow
 Repository for ideas and training
 
 Hello reader!
